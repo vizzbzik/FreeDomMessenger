@@ -3,7 +3,7 @@ services:
     name: freedommessenger
     env: dotnet
     buildCommand: dotnet publish -c Release -o out
-    startCommand: dotnet out/FreeDomMessenger.dll
+    startCommand: dotnet out/freedommessenger.dll
     plan: free
     branch: main
     autoDeploy: true

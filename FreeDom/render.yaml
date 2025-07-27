@@ -1,1 +1,9 @@
-// Placeholder for FreeDom/render.yaml
+services:
+  - type: web
+    name: freedommessenger
+    env: dotnet
+    buildCommand: dotnet publish -c Release -o out
+    startCommand: dotnet out/FreeDomMessenger.dll
+    plan: free
+    branch: main
+    autoDeploy: true

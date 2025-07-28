@@ -1,9 +1,0 @@
-C:\Users\usr\Documents\GitHub\FreeDomMessenger\freedommessenger\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\usr\Documents\GitHub\FreeDomMessenger\freedommessenger\obj\Debug\net8.0\freedommessenger.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\usr\Documents\GitHub\FreeDomMessenger\freedommessenger\obj\Debug\net8.0\freedommessenger.AssemblyInfoInputs.cache
-C:\Users\usr\Documents\GitHub\FreeDomMessenger\freedommessenger\obj\Debug\net8.0\freedommessenger.AssemblyInfo.cs
-C:\Users\usr\Documents\GitHub\FreeDomMessenger\freedommessenger\obj\Debug\net8.0\freedommessenger.csproj.CoreCompileInputs.cache
-C:\Users\usr\Documents\GitHub\FreeDomMessenger\freedommessenger\obj\Debug\net8.0\freedommessenger.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\usr\Documents\GitHub\FreeDomMessenger\freedommessenger\obj\Debug\net8.0\freedommessenger.RazorAssemblyInfo.cache
-C:\Users\usr\Documents\GitHub\FreeDomMessenger\freedommessenger\obj\Debug\net8.0\freedommessenger.RazorAssemblyInfo.cs
-C:\Users\usr\Documents\GitHub\FreeDomMessenger\freedommessenger\obj\Debug\net8.0\freedommessenger.sourcelink.json

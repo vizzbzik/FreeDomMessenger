@@ -6,7 +6,7 @@ WORKDIR /app
 COPY . ./
 
 # Публикуем сборку
-RUN dotnet publish -c Release -o out
+RUN dotnet publish freedommessenger.dll -c Release -o out
 
 # Используем легковесный рантайм-образ
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
